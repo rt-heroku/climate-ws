@@ -3,14 +3,6 @@
   "description": "This is the super cool app for Climate Corp",
   "scripts": {
   },
-  "env": {
-    "PAPERTRAIL_API_TOKEN": {
-      "required": true
-    },
-    "REDIS_URL": {
-      "required": true
-    }
-  },
   "formation": {
     "web": {
       "quantity": 1
